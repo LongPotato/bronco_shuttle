@@ -1,0 +1,23 @@
+{
+  "name": "bronco_shuttle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongPotato/bronco_shuttle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LongPotato/bronco_shuttle/issues"
+  },
+  "homepage": "https://github.com/LongPotato/bronco_shuttle#readme",
+  "dependencies": {
+    "aws-sdk": "^2.12.0",
+    "request": "^2.79.0"
+  }
+}
